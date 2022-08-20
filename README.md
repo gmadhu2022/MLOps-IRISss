@@ -1,1 +1,1 @@
-# MLOps-IRIS
+# MLOps-I
